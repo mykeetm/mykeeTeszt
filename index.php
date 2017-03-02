@@ -8,6 +8,6 @@
 
 include "include/config.php";
 
-echo "hello world";
+echo "hello world\n";
 
 ?>
