@@ -8,7 +8,7 @@
 
 include "include/config.php";
 
-echo "No milk today"
+echo "No milk today\n"
 
 
 ?>
