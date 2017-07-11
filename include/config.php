@@ -8,3 +8,4 @@
 
 
 $config['user'] = "Username";
+$config['passwrod'] = "Password";
