@@ -12,4 +12,6 @@ $config['passwrod'] = "Password";
 
 if ($config['user'] == "Username" || $config['passwrod'] == 'Password') {
     echo "please edit default config";die;
+} else {
+    echo "good boy!";
 }
