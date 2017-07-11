@@ -8,9 +8,11 @@
 
 include "include/config.php";
 
-echo "No milk today\n"
+echo "No milk today\n";
 
-
+if (isset($config['remoteHost'])) {
+    // do some connection
+}
 
 
 ?>
