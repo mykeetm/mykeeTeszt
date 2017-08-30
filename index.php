@@ -7,6 +7,8 @@
  */
 
 include "include/config.php";
+include "include/config-feature1.php";
+
 
 echo "No milk today\n";
 
