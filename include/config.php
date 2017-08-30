@@ -14,6 +14,7 @@ $config['remoteHost'] = '192.168.10.1';
 
 if ($config['user'] == "Username" || $config['passwrod'] == 'Password') {
     echo "please edit default config";die;
-} else {
-    echo "good boy!";
 }
+
+
+echo "new feature developed.";
